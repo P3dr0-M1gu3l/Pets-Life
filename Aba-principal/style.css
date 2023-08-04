@@ -156,7 +156,7 @@ label {
 }
 
 @media screen and (max-width: 1026px){
-    .menu-title{
+    .menu-title {
         display: none;
     }
 }
