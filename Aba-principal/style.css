@@ -155,13 +155,10 @@ label {
     margin-left: 22px;
 }
 
-@media screen and (min-width: 855px) and (max-width: 1026px){
+@media screen and (max-width: 1026px){
     .menu-title {
         display: none;
     }
-}
-
-@media screen and (max-width: 855px){
     .search-box {
         margin: 20px;
     }
