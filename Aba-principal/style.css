@@ -129,6 +129,16 @@ label {
     border: 60px solid #ee8f1a;
 }
 
+.texto-missão-1{
+    padding: 5px;
+    background-color: #ee8f1a;
+    color: #ffffff;
+    margin-top: 20px;
+    margin-left: 20px;
+    font-size: 7mm;
+    border: 60px solid #ee8f1a;
+}
+
 .pets-selfie{
     height: 420px;
     width: 1990px;
