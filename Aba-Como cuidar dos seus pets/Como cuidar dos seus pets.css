@@ -169,3 +169,15 @@ label {
     margin: 5px;
     margin-left: 22px;
 }
+
+@media screen and (max-width: 1026px){
+    .menu-title {
+        display: none;
+    }
+    .search-box {
+        margin: 20px;
+    }
+    .img-menu-icon{
+        margin: 0px;
+    }
+}
