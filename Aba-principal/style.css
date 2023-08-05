@@ -209,4 +209,41 @@ label {
 .search-box {
     position: relative;
 }
+@media screen and (min-width: 751px) and (max-width: 1026px) {
+    .menu-title {
+        display: none;
+    }
+
+    .search-box {
+        margin: 20px;
+    }
+
+    .img-menu-icon {
+        margin: 0px;
+    }
+}
+
+@media screen and (max-width: 751px) {
+    .container {
+        display: block;
+    }
+    .texto-missão {
+        text-align: justify;
+    font-size: 20px;
+}
+.pets-selfie {
+    width: 91vw;
+    height: 358px;
+    margin: 0px;
+}
+.search-box {
+    position: relative;
+}
+ .menu-title {
+        display: none;
+    }
+.imagem-do-cabecalho {
+padding: 0px;
+margin: 0px;
+}
 }
