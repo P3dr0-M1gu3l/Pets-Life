@@ -223,7 +223,7 @@ label {
     }
 }
 
-[23:51, 04/08/2023] Giovana: Prof De Programação.: @media screen and (max-width: 751px) {
+@media screen and (max-width: 751px) {
     .container {
         display: block;
     }
